@@ -108,7 +108,7 @@ Clean & modern dashboard for managing website content.
 
 <p align="center">
   <a href="https://mdjunayed.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/junayed2003/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/junayed2003/">LinkedIn</a>
 </p>
 
 ---
@@ -154,7 +154,7 @@ Login, CRUD, Validation, Token-based secure API.
 - Portfolio Website (Coming Soon)
 
 ## 💬 Contact Me
-📧 Email: yourname@email.com
-📞 Phone: 01XXXXXXXXX
+📧 Email: **junayedm2222@gmail.com**  
+📞 Phone: **01939104157**
 
 > আপনার যদি কোনো ওয়েবসাইট, API বা ফুল‑স্ট্যাক প্রজেক্টের প্রয়োজন হয় — আমাকে জানান!
