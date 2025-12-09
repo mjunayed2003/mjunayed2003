@@ -1,87 +1,118 @@
+<div align="center">
+    <a href="https://github.com/Your-Username-Here">
+        <img src="https://via.placeholder.com/800x200?text=Md.+Junayed+-+Full+Stack+Developer" alt="Header Image" style="border-radius: 10px; max-width: 100%;">
+    </a>
+</div>
+
 # 👋 Hi, I'm Md. Junayed!
-### 💻 Full-Stack Developer | React.js | Next.js | Node.js | Express.js | NestJS | TypeScript
 
----
+### 🔗 Connect with me
 
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Developer** specializing in building **scalable**, **high-performance** web applications from the ground up. [cite_start]My core expertise lies in the **MERN/T-Stack** ecosystem, with a deep focus on **React.js** and **Next.js** for crafting engaging frontend interfaces, and **Node.js** with **Express.js** and **NestJS** for designing secure, robust backend architectures[cite: 6, 48].
-
-* [cite_start]I excel at integrating **advanced UI/UX patterns** and state management solutions like **Redux Toolkit** and **Zustand**[cite: 7, 10].
-* [cite_start]I have hands-on experience in implementing **RESTful APIs** [cite: 48][cite_start], managing databases (**MongoDB, Mongoose, Prisma ORM**), and integrating third-party services like **SSLCommerz** and **Cloudinary**[cite: 53, 60, 62].
-* [cite_start]Committed to **clean code practices**, optimized rendering, and delivering applications that provide superior user interactions[cite: 8, 50].
-
----
-
-## 🛠️ Skills & Tech Stack
-
-My technology stack is comprehensive, covering all aspects of modern web development.
-
-### Frontend Development
-* [cite_start]**Core:** **TypeScript** [cite: 10][cite_start], **JavaScript** (ES6+) [cite: 10][cite_start], **React.js** [cite: 10][cite_start], **Next.js** [cite: 10]
-* [cite_start]**State Management:** **Redux Toolkit** [cite: 10][cite_start], **Zustand** [cite: 10]
-* [cite_start]**Styling & UI:** **Tailwind CSS** [cite: 10][cite_start], **Shadcn UI** [cite: 10][cite_start], **DaisyUI** [cite: 10][cite_start], **Magic UI** [cite: 10][cite_start], **Framer Motion** [cite: 10]
-* [cite_start]**Forms:** **React Hook Form**, **Zod Validation** [cite: 11]
-
-### Backend & API Development
-* [cite_start]**Core:** **TypeScript** [cite: 53][cite_start], **Node.js** [cite: 53][cite_start], **Express.js** [cite: 53][cite_start], **Next.js RESTful APIs**[cite: 53], **NestJS** (Manual Addition)
-* [cite_start]**API:** **RESTful APIs** [cite: 48][cite_start], **JWT** (for security) [cite: 62]
-* [cite_start]**Databases & ORM:** **MongoDB** [cite: 53][cite_start], **Mongoose** [cite: 53] [cite_start]and **Prisma ORM** (PostgreSQL, MySQL, SQLite) [cite: 48, 53]
-* [cite_start]**Integrations:** **Passport.js** [cite: 59][cite_start], **bcrypt** [cite: 62][cite_start], **SSLCommerz** [cite: 62][cite_start], **Nodemailer** [cite: 62][cite_start], **PDFKit** [cite: 62]
-
-### Tools, Platforms & DevOps
-* [cite_start]**Version Control:** **Git**, **GitHub** [cite: 11]
-* [cite_start]**Deployment/Cloud:** **Vercel** [cite: 11][cite_start], **Firebase** [cite: 11][cite_start], **AWS** [cite: 53][cite_start], **Docker** [cite: 53]
-* [cite_start]**Others:** **Postman** [cite: 11][cite_start], **Figma** [cite: 11][cite_start], **Cloudinary** [cite: 11][cite_start], **REST APIs** [cite: 11]
-
-### Soft Skills
-* [cite_start]Quick Learner, Teamwork, Self-Motivation, Time Management, Problem-Solving [cite: 12, 54]
-
----
-
-## 💡 Project Highlights
-
-### 1️⃣ Full-Stack E-commerce Platform
-A complete, high-performance e-commerce solution with separate Frontend and Backend APIs.
-
-| Component | Key Features | Technologies Used |
-| :--- | :--- | :--- |
-| **Frontend** | [cite_start]Fully **responsive** UI, dynamic product listing, **Redux** for cart/wishlist management, smooth navigation with **Next.js** server-side rendering[cite: 18, 19]. | [cite_start]**Next.js**, **TypeScript**, **Redux**, **Tailwind CSS**, **Shadcn UI**, **Framer Motion** [cite: 20] |
-| **Backend API** | [cite_start]Secure user **authentication** (**JWT & Google OAuth**), **order tracking**, **payment gateway** integration (**SSLCommerz**), product management, email notifications using **modular architecture**[cite: 57, 59, 61]. | [cite_start]**Node.js**, **Express.js**, **TypeScript**, **MongoDB/Mongoose**, **JWT**, **SSLCommerz** [cite: 62] |
-
-### 2️⃣ CMS Dashboard (Frontend)
-[cite_start]An efficient and intuitive interface for managing website content and system data[cite: 26].
-* [cite_start]Built using **TypeScript** and **Next.js** with a **component-driven architecture**[cite: 27].
-* [cite_start]Features **fully responsive design**, **dynamic content management**, and **Redux** for robust global state handling[cite: 27, 28].
-* [cite_start]**Technologies:** **Next.js**, **TypeScript** [cite: 27][cite_start], **Tailwind-css**, **Redux**, **Shadcn UI**, **Framer Motion** [cite: 29]
-
-### 3️⃣ School Management System (Backend & Frontend)
-[cite_start]A comprehensive system featuring user management and academic tracking[cite: 64, 65].
-* [cite_start]**Secure Platform:** Implemented **Google Sign-In**, **JWT** security, and an **Admin Dashboard** for data and real-time revenue tracking[cite: 67].
-* [cite_start]**Learning & Performance:** Offers **free SAT resources** with search/filter, plus performance tracking and ranking[cite: 68].
-* [cite_start]**Technologies:** **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **JWT**, **Tailwind CSS**, **Framer Motion** [cite: 69]
-
----
-
-## 🎓 Education & Certification
-
-* [cite_start]**Diploma in Computer Science & Technology** (2021-2025) [cite: 31, 33, 71]
-    * [cite_start]Institute Of Engineering And Technology, Rangpur [cite: 32, 38, 71]
-* [cite_start]**Certification:** Full Stack Web Development with **Prisma ORM** [cite: 39, 76] (Ostad) [cite_start][cite: 40, 76]
-* [cite_start]**Certification:** **Mern Stack Web Development** [cite: 41] [cite_start]/ **Mern Stack Developer** [cite: 77] (Bdcalling Academy) [cite_start][cite: 42, 77]
-
----
-
-### 📫 Let's Connect!
-
-| | |
+| Platform | Link |
 | :--- | :--- |
-| **GitHub** | [Your GitHub Link] |
-| **LinkedIn** | [Your LinkedIn Link] |
-| **Portfolio** | [Your Portfolio Link] |
-| [cite_start]**Email** | junayedm2222@gmail.com [cite: 5, 46] |
-| **Phone** | [cite_start]01939104157 [cite: 4, 46] |
+| **LinkedIn** | [Connect with me](YOUR_LINKEDIN_URL) |
+| **GitHub** | [Connect with me](YOUR_GITHUB_URL) |
+| **Portfolio** | [View My Work](YOUR_PORTFOLIO_URL) |
+| **Email** | junayedm2222@gmail.com |
 
 ---
 
-Would you like me to generate specific repository links (e.g., for E-commerce Backend) if you provide them, or is there anything else you'd like to add or change?
+## 💻 About Me
+
+* [cite_start]I am a passionate **Full-Stack Developer** [cite: 44] specializing in the **MERN Stack** and advanced frameworks like **Next.js** and **NestJS**.
+* [cite_start]My expertise includes crafting responsive, scalable web interfaces [cite: 7] [cite_start]and designing secure, robust RESTful APIs[cite: 48, 49].
+* [cite_start]Currently working on high-performance applications with optimized rendering and clean code practices[cite: 8, 50].
+* [cite_start]Looking for challenging **Full-Stack/Backend** development opportunities [cite: 44] where I can utilize **TypeScript**, **Node.js**, and modern web technologies.
+* [cite_start]**Soft Skills:** Quick Learner, Teamwork, Self-Motivation, Time Management, Problem-Solving[cite: 12, 54].
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Badge"/>
+    
+    <br/>
+    
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+    
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/Your-Username-Here">
+        <img src="https://github-readme-stats.vercel.app/api?username=Your-Username-Here&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Junayed's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Username-Here&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Junayed's Top Languages"/>
+    </a>
+</div>
+
+---
+
+## 💡 Featured Projects
+
+* [cite_start]**E-commerce (Full-Stack/API):** Secure, scalable API with JWT/Google OAuth [cite: 59][cite_start], SSLCommerz payment integration [cite: 60][cite_start], and modular architecture[cite: 57].
+    * [cite_start]**Technologies:** Node.js, Express.js, MongoDB, JWT, SSLCommerz, Nodemailer[cite: 62].
+* [cite_start]**E-commerce (Frontend):** High-performance, responsive frontend with Next.js and Redux for efficient cart/state management[cite: 18, 19].
+    * [cite_start]**Technologies:** Next.js, TypeScript, Redux, Shadcn UI, Framer Motion[cite: 20].
+* [cite_start]**CMS Dashboard:** Fully responsive and optimized dashboard built with Next.js [cite: 27][cite_start], clean component-driven architecture, and global state handling with Redux[cite: 28].
+    * [cite_start]**Technologies:** Next.js, Javascript/TypeScript, Redux, Shadcn UI, Framer Motion[cite: 27, 29].
+* [cite_start]**School Management System:** Secure platform with Google Sign-In, JWT security, Admin Dashboard for real-time revenue tracking, and SAT resources[cite: 64, 66, 67, 68].
+    * [cite_start]**Technologies:** Next.js, Node.js, Express.js, MongoDB, JWT[cite: 69].
+
+---
+
+## 📚 Skills Progress
+
+<div align="left">
+    <p><strong>Next.js/React.js</strong></p>
+    <div style="width: 100%; background-color: #ddd; border-radius: 5px;">
+        <div style="width: 95%; background-color: #04AA6D; color: white; text-align: right; padding-right: 5px; border-radius: 5px;">95%</div>
+    </div>
+    <p><strong>Node.js/Express.js</strong></p>
+    <div style="width: 100%; background-color: #ddd; border-radius: 5px;">
+        <div style="width: 90%; background-color: #04AA6D; color: white; text-align: right; padding-right: 5px; border-radius: 5px;">90%</div>
+    </div>
+    <p><strong>TypeScript/JavaScript</strong></p>
+    <div style="width: 100%; background-color: #ddd; border-radius: 5px;">
+        <div style="width: 85%; background-color: #04AA6D; color: white; text-align: right; padding-right: 5px; border-radius: 5px;">85%</div>
+    </div>
+    <p><strong>MongoDB/Prisma ORM</strong></p>
+    <div style="width: 100%; background-color: #ddd; border-radius: 5px;">
+        <div style="width: 80%; background-color: #04AA6D; color: white; text-align: right; padding-right: 5px; border-radius: 5px;">80%</div>
+    </div>
+</div>
+
+---
+
+## 🌟 Education & Certification
+
+* [cite_start]**Education:** Diploma in Computer Science & Technology, IInstitute Of Engineering And Technology, Rangpur (2021-2025)[cite: 31, 32, 33, 71].
+* [cite_start]**Certification:** Full Stack Web Development with Prisma ORM (Ostad)[cite: 39, 40, 76].
+* [cite_start]**Certification:** Mern Stack Web Development (Bdcalling Academy)[cite: 41, 42, 77].
+
+---
+
+## 📈 Visitor Counter
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Your-Username-Here&color=blueviolet" alt="Profile views"/>
+</div>
+
+---
