@@ -107,9 +107,8 @@ Clean & modern dashboard for managing website content.
 📞 Phone: **01939104157**
 
 <p align="center">
-  <a href="#">🌐 Portfolio</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">GitHub</a>
+  <a href="https://mdjunayed.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/junayed2003/">LinkedIn</a> •
 </p>
 
 ---
