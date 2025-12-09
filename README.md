@@ -111,3 +111,47 @@ Clean & modern dashboard for managing website content.
 ---
 
 <p align="center" style="font-size:18px; font-weight:600;">✨ _Thanks for visiting my profile! Let's build something amazing together._ ✨</p>
+
+---
+
+## 🚀 About Me
+আমি একজন Passionate MERN/Next.js Developer, Backend Engineer & Full‑Stack Problem Solver. Clean code, scalable structure এবং real‑world প্রজেক্ট তৈরি করতে ভালোবাসি। আমার কাজের মূল লক্ষ্য — **দ্রুত, স্কেলেবল এবং সুন্দর সফটওয়্যার তৈরি করা।**
+
+- 💻 Full‑Stack Developer (Next.js, Express, Prisma)
+- 🛢️ Database Lover (MongoDB, PostgreSQL, Prisma ORM)
+- 🎨 UI/UX Enthusiast (Tailwind, Framer Motion)
+- ⚡ API Architecture & Backend Systems Expert
+
+## 🏆 Skills & Technologies
+### **Frontend:**
+- Next.js 15 • React • Tailwind CSS • ShadCN UI • Framer Motion
+
+### **Backend:**
+- Express.js • Node.js • JWT Auth • Zod Validation • REST API
+
+### **Database:**
+- MongoDB • PostgreSQL • Prisma ORM
+
+### **Tools & DevOps:**
+- Git • GitHub • VS Code • Linux • PM2 • Cloud Deployments
+
+## 📂 Featured Projects
+### 🔹 **Portfolio Website**
+Modern portfolio using Next.js 15, Tailwind, Animation.
+
+### 🔹 **Full‑Stack Admin Dashboard**
+Authentication, Analytics, Charts, Role-based system.
+
+### 🔹 **Express + Prisma API System**
+Login, CRUD, Validation, Token-based secure API.
+
+## 🌐 Social Profiles
+- GitHub: https://github.com/mjunayed2003
+- Facebook: https://facebook.com
+- Portfolio Website (Coming Soon)
+
+## 💬 Contact Me
+📧 Email: yourname@email.com
+📞 Phone: 01XXXXXXXXX
+
+> আপনার যদি কোনো ওয়েবসাইট, API বা ফুল‑স্ট্যাক প্রজেক্টের প্রয়োজন হয় — আমাকে জানান!
