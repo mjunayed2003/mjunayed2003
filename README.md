@@ -7,7 +7,7 @@
 <h1 align="center" style="font-weight:900; font-size:42px; color:#0EA5E9;">
   👋 Hi, I'm <span style="color:#38BDF8;">Md. Junayed</span>
 </h1>
-<h3 align="center" style="color:#CBD5E1;">🚀 Full-Stack Developer | MERN | Next.js | Node.js | TypeScript</h3>
+<h3 align="center" style="color:#CBD5E1;">🚀 Full-Stack Developer | MERN | Next.js | Node.js | Express.js | NestJS | TypeScript | MongoDB | Prisma ORM </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
