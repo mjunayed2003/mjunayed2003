@@ -1,7 +1,7 @@
 <!-- Modern Stylish README with Background Banner -->
 
 <p align="center">
-  <img src="banner.png" width="100%" style="border-radius:14px;" alt="Md. Junayed Banner" />
+  <img src="Gemini_Generated_Image_rs56mprs56mprs56.png" width="100%" style="border-radius:14px;" alt="Md. Junayed Banner" />
 </p>
 
 <h1 align="center" style="font-weight:900; font-size:42px; color:#0EA5E9;">
