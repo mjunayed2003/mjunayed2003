@@ -156,5 +156,3 @@ Login, CRUD, Validation, Token-based secure API.
 ## 💬 Contact Me
 📧 Email: **junayedm2222@gmail.com**  
 📞 Phone: **01939104157**
-
-> আপনার যদি কোনো ওয়েবসাইট, API বা ফুল‑স্ট্যাক প্রজেক্টের প্রয়োজন হয় — আমাকে জানান!
