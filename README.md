@@ -9,7 +9,10 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <p align="center">
@@ -29,14 +32,15 @@ I love working with:
 - 🎨 Beautiful, reusable components (**Tailwind CSS, Shadcn UI, Magic UI**)
 - ⚡ High-performance servers (**Node.js, NestJS, Express.js**)
 - 🧠 Modern state management (**Redux Toolkit, Zustand**)
-- 🛢️ Robust data layers (**MongoDB, PostgreSQL, Prisma ORM**)
+- 🛢️ Robust data layers (**MongoDB, PostgreSQL, SQL, Prisma ORM**)
+- 📱 Cross-platform mobile apps (**React Native**)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎯 Frontend
-`React.js` `Next.js 15` `TypeScript` `JavaScript (ES6+)`
+### 🎯 Frontend & Mobile
+`React.js` `Next.js 15` `React Native` `TypeScript` `JavaScript (ES6+)`
 `Tailwind CSS` `Shadcn UI` `Magic UI` `DaisyUI`
 `Redux Toolkit` `Zustand` `Framer Motion`
 `React Hook Form` `Zod Validation`
@@ -44,8 +48,10 @@ I love working with:
 ### 🔧 Backend & API
 `Node.js` `Express.js` `NestJS`
 `REST APIs` `JWT Auth` `Passport.js`
-`Prisma ORM` `MongoDB` `PostgreSQL` `Mongoose`
 `Cloudinary` `SSLCommerz` `Nodemailer`
+
+### 🗄️ Database
+`MongoDB` `Mongoose` `PostgreSQL` `SQL` `Prisma ORM`
 
 ### 🧰 Tools & DevOps
 `Git` `GitHub` `Docker` `Postman`
@@ -87,9 +93,11 @@ A clean, modern dashboard for managing website content.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjunayed2003&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjunayed2003&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mjunayed2003&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mjunayed2003&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+> ℹ️ Note: the original `github-readme-stats.vercel.app` public instance has been paused by its maintainer, so this README uses [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) — the actively maintained, drop-in-compatible successor.
 
 ---
 
